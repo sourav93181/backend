@@ -145,4 +145,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# SECURE_SSL_REDIRECT=False
+SECURE_SSL_REDIRECT=True
